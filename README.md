@@ -28,10 +28,10 @@ $ git clone https://github.com/Adoilson-Freitas/dtmoney.git
 $ cd dtmoney
 
 # Instale as dependências
-$ yarn ou npm install
+$ yarn 
 
 # Rode a aplicação
-yarn start ou npm start
+$ yarn start
 ```
 
 
@@ -46,4 +46,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Mirage.js](https://miragejs.com/)
 - [Polished](https://polished.js.org/)
 
+
+
+Feito com ❤ e ☕ Por <a href="https://www.linkedin.com/in/adoilson-freitas-98b154172/" target='_blank' rel='noreferrer noopener'>Adoilson Freitas</a>
 

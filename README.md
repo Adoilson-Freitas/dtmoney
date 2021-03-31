@@ -45,6 +45,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Styled-Components](https://styled-components.com/)
 - [Mirage.js](https://miragejs.com/)
 - [Polished](https://polished.js.org/)
+- [React-Modal](https://www.npmjs.com/package/react-modal)
+
 
 
 
